@@ -1,4 +1,5 @@
 # Practice
 Just a new practice repository
 
-Readme.md was just updated manually.
+
+This line was modified manually during conflict resolution.
